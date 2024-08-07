@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="cs">
 <head>
     <meta charset="UTF-8">
@@ -55,7 +54,6 @@
 <a href="mailto:capolvoking@gmail.com" id="emailLink">Kontaktujte nás e-mailem</a>
 <br>
 <a href="tel:+420123456789" id="phoneLink">Zavolejte nám</a>
-</br>
 
 </body>
 </html>
