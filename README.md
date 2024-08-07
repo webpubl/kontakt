@@ -51,10 +51,11 @@
 <h1>KRIMI</h1>
 <em>Na týhle stránce nás mužete kontaktovat.</em>
 <br>
-<a href="mailto:capolvoking@gmail.com" id="emailLink">Kontaktujte nás e-mailem</a>
+<a href="mailto:krimi.web@gmail.com" id="emailLink">Kontaktujte nás e-mailem</a>
 <em>Pokud se něco stalo kontaktovat nás muže te na emailu.</em>
 <br>
-<a href="tel:+420123456789" id="phoneLink">Zavolejte nám</a>
+<br>
+<a href="tel:+420734110295" id="phoneLink">Zavolejte nám</a>
 
 </body>
 </html>
