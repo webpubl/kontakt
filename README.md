@@ -54,7 +54,7 @@
 <a href="mailto:krimi.web@gmail.com" id="emailLink">Kontaktujte nás e-mailem</a>
 <em>krimi.web@gmail.com</em>
 <br>
-<em>Pokud se něco stalo kontaktovat nás muže te na emailu.</em>
+<em>Pokud se něco stalo nebo chcete napsat svuj názor mužete nás kontaktovat na emailu.</em>
 <br>
 <a href="tel:+420734110295" id="phoneLink">Zavolejte nám</a>
 
