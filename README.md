@@ -49,9 +49,10 @@
 <body>
 
 <h1>KRIMI</h1>
-<em>Výtejte na stránce KRIMI, tato stránka je dovážející služba.</em>
+<em>Na týhle stránce nás mužete kontaktovat.</em>
 <br>
 <a href="mailto:capolvoking@gmail.com" id="emailLink">Kontaktujte nás e-mailem</a>
+<em>Pokud se něco stalo kontaktovat nás muže te na emailu.</em>
 <br>
 <a href="tel:+420123456789" id="phoneLink">Zavolejte nám</a>
 
